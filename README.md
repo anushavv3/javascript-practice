@@ -1,4 +1,4 @@
-## JavaScript Practice
+# JavaScript Practice
 
 This repository contains my JavaScript learning journey including coding challenges, core concepts, and small exercises.
 
