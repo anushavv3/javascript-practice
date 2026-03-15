@@ -4,8 +4,8 @@ This repository contains my JavaScript learning journey including coding challen
 
 ## Topics Covered
 - Variables & Data Types
-- Functions
 - Loops & Conditionals
+- Functions
 - Arrays & Objects
 - DOM Manipulation
 - ES6+ Features
