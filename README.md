@@ -13,4 +13,4 @@ This repository contains my JavaScript learning journey including coding challen
 ## Source
 - FreeCodeCamp
 - Custom practice problems
-- Chatgpt
+- Chatgpt,Deepseek
